@@ -1,52 +1,37 @@
-# \# Engineering Portfolio
+# Engineering Portfolio
 
-# 
+Automotive and Mechanical Engineering portfolio showcasing projects in quality engineering, manufacturing, CAD, product design, FMEA, DFMA and continuous improvement.
 
-# Automotive and Mechanical Engineering portfolio showcasing projects in quality engineering, manufacturing, CAD, product design, FMEA, DFMA and continuous improvement.
+## About Me
 
-# 
+MSc Automotive Engineering graduate with experience in automotive, quality, manufacturing and product design projects.
 
-# \## About Me
+My work includes CAD development, FMEA, DFMA, QFD, engineering analysis, technical documentation and continuous improvement.
 
-# 
+## Core Skills
 
-# MSc Automotive Engineering graduate with project experience across automotive engineering, quality, manufacturing, CAD design and engineering analysis.
+- Automotive Engineering
+- Quality Engineering
+- Manufacturing Engineering
+- CAD Design
+- FMEA
+- DFMA
+- QFD
+- Root Cause Analysis
+- Continuous Improvement
+- Engineering Documentation
 
-# 
+## Featured Projects
 
-# This portfolio presents selected academic and engineering projects, with emphasis on practical problem-solving, design methodology, quality tools and technical analysis.
+### Robotic Arm Design & Engineering Project
+CAD, concept development, FMEA, QFD, DFMA and engineering evaluation.
 
-# 
+### CAD / DFMA / QFD Product Development Project
+Product design project covering concept generation, design selection, manufacturing considerations and quality tools.
 
-# \## Core Skills
+### Additional Engineering Projects
+More projects will be added as separate repositories.
 
-# 
+## Tools & Methods
 
-# \- Automotive Engineering
-
-# \- Quality Engineering
-
-# \- Manufacturing Engineering
-
-# \- CAD Design
-
-# \- FMEA
-
-# \- DFMA
-
-# \- QFD
-
-# \- Root Cause Analysis
-
-# \- Continuous Improvement
-
-# \- Engineering Documentation
-
-# 
-
-# \## Featured Projects
-
-# 
-
-# Projects will be added here as individual repositories with technical summaries, visuals and selected supporting files.
-
+CAD | FMEA | DFMA | QFD | Pugh Matrix | Root Cause Analysis | Excel | Engineering Documentation
